@@ -16,7 +16,7 @@ On the LinkedIn feed, there are five major activity types:
 **Offline Metric:**
 
 * The Click Through Rate (CTR) for one specific feed is the number of clicks that feed receives, divided by the number of times the feed is shown.
-$\frac{# of clicks}{# of shown times}$ 
+$\frac{no. of clicks}{no. of shown times}$ 
 
 **Online Metric:**
 Online metric, such as conversion rate, must represent the degree of involvement from users after the model has been deployed (ratio of clicks with number of feeds)
