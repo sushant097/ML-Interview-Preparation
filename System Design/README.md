@@ -3,4 +3,4 @@ Popular questions of System Design Interview.
 
 
 Popular System Design Interview Question:
-1. [Feed Ranking](/Feed%20Ranking/)
+1. [Feed Ranking](Feed Ranking/)
