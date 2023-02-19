@@ -2,6 +2,5 @@
 Popular questions of System Design Interview.
 
 
-Popular System Design Question:
-1. Video Recommendation
-2. Feed Ranking
+Popular System Design Interview Question:
+1. [Feed Ranking]()
