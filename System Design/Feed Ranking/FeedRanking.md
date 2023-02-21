@@ -28,7 +28,7 @@ Online metric, such as conversion rate, must represent the degree of involvement
  * Data freshness i.e. avoid showing repetitive feed on the user's home feed.
 
   **Inference**
-  * The volume of users activiites are large and the system needs to handle approx. 300 million users. So, it should be highly scalable.
+  * The volume of users activiites are large and the system needs to handle approx. 300 million users. So, it should be highly scalable. 
   * Low Latency: When a user goes to LinkedIn, there are multiple pipelines and services that will pull data from multiple sources before feeding activities into the ranking model. All of these steps need to be done within 200 ms. As a result, the Feed Ranking needs to return within 50ms.
   * Data freshness: Feed Ranking needs to be fully aware of whether or not a user has already seen any particular activity. 
 
