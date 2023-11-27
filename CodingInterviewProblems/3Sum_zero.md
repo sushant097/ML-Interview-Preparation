@@ -1,8 +1,6 @@
 
 
 ## 3 Sum
-
-
 Leetcode Question: [Three Sum Problem](https://leetcode.com/problems/3sum/)
 
 **Question Asked By: Google**
@@ -75,30 +73,31 @@ class Solution(object):
         # Time: O(N^2), Space: O(N)
         triplets = []
         
-        if len(nums) <=2:
+        if len(nums) < 3:
             return triplets
         
         # Sort for better handling:
         nums.sort()
 
-        for i in range(len(nums)):
-            # Skip duplicates for the first element
-           if i > 0 and nums[i] == nums[i - 1]:
+        for i in range(len(nums) - 2):
+           if i > 0 and nums[i] == nums[i-1]:
                continue
            leftP = i + 1
            rightP = len(nums) - 1
            while rightP > leftP:
             sum = nums[i] + nums[leftP] + nums[rightP]
-            if sum > 0:
-                rightP -= 1
-            if sum < 0:
+            if sum == 0:
+                temp = [nums[i], nums[leftP], nums[rightP]]
+                if temp not in triplets:
+                    triplets.append(temp)
                 leftP += 1
-            else:
-                triplets.append([nums[i], nums[leftP], nums[rightP]])
-                # Skip duplicates
-                while rightP > leftP and nums[leftP] == nums[leftP- 1]:
-                    leftP += 1
+                rightP -= 1
+            elif sum > 0:
+                rightP -= 1
+            elif sum < 0:
+                leftP += 1
             
         return triplets
+
 ```
 
