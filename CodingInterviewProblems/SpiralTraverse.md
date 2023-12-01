@@ -47,6 +47,7 @@ def sprial_Traverse(array):
 **Recursive Solution:**
 
 ```python 
+# Time:O(N) , Space: O(N); N is the total elements in the array
 def spiral_Traverse_recursive(array):
     result = []
     spiralfill(array, 0, len(array) -1, 0, len(array[0]) - 1, result)
