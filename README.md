@@ -19,6 +19,8 @@ Include bookmark here to go directly to that section.
 | 5 | Monotonic Array Problem      | Difficult | [Monotonic Array Solution](CodingInterviewProblems/MonotonicArrar.md) |
 | 6 | Spiral Traverse Problem      | Easy | [Monotonic Array Solution](CodingInterviewProblems/SpiralTraverse.md) | 
 | 7 | Merge Sorted Array      | Easy | [Merge Sorted Array](CodingInterviewProblems/MergeSortedArray.py) -- [Leetcode Question Link](https://leetcode.com/problems/merge-sorted-array) | 
+| 8 | Remove Element | Easy | [Remove Element](CodingInterviewProblems/RemoveElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-element/) | 
+| 9 | Remove Duplicate Element | Easy | [Remove Duplicate Element](CodingInterviewProblems/RemoveDuplicateElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 
 
 
 
