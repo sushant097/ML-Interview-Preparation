@@ -1,6 +1,14 @@
 # ML-Interview-Preparation
 This repository contains all of the resources and questions I was given for the machine learning interview, including coding and the system design interview, throughout my preparation.
 
+<!-- 
+It may include three sections:
+1. Coding Interview section
+2. ML interview question section
+3. System Design question section
+Include bookmark here to go directly to that section.
+ -->
+
 # Coding Interview Problems - Leetcode
 | S.N. | Problem Name | Difficulty Level | Solution |
 | :------------ | :------------ |:---------------:| -----:|
@@ -10,11 +18,14 @@ This repository contains all of the resources and questions I was given for the 
 | 4 | Move Element-to-end  Problem      | Easy | [Move Element-to-end  Solution](CodingInterviewProblems/MoveElementToEnd.md) |
 | 5 | Monotonic Array Problem      | Difficult | [Monotonic Array Solution](CodingInterviewProblems/MonotonicArrar.md) |
 | 6 | Spiral Traverse Problem      | Easy | [Monotonic Array Solution](CodingInterviewProblems/SpiralTraverse.md) | 
+| 7 | Merge Sorted Array      | Easy | [Merge Sorted Array](CodingInterviewProblems/MergeSortedArray.py) -- [Leetcode Question Link](https://leetcode.com/problems/merge-sorted-array) | 
 
-# System Design Interview Problems
+
+
+<!-- # System Design Interview Problems
 | S.N. | Problem Name | Difficulty Level | Solution |
 | :------------ | :------------ |:---------------:| -----:|
-| 1 | Feed Ranking     | Easy | [Feed Ranking ](SystemDesign/FeedRanking/FeedRanking.md) |
+| 1 | Feed Ranking     | Easy | [Feed Ranking ](SystemDesign/FeedRanking/FeedRanking.md) | -->
 
 
 
