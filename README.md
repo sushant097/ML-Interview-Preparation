@@ -23,8 +23,9 @@ Include bookmark here to go directly to that section.
 | 9 | Remove Duplicate Element | Easy | [Remove Duplicate Element Solution](CodingInterviewProblems/RemoveDuplicateElement.py) | [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 
 | 10 | Remove Duplicate Element-II | Medium | [Remove Duplicate Element-II Solution](CodingInterviewProblems/RemoveDuplicateElement-II.py) | [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 
 | 11 | Remove Duplicate Element-II | Easy | [Majority Element Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
-| 11 | Remove Duplicate Element-II | Easy | [Majority Element Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
-| 11 | Remove Duplicate Element-II | Easy | [Majority Element Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
+| 12 | Rotate Array | Medium | [Rotate Array Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/rotate-array/) | 
+
+
 
 
 <!-- # System Design Interview Problems
