@@ -22,7 +22,7 @@ Include bookmark here to go directly to that section.
 | 8 | Remove Element | Easy | [Remove Element](CodingInterviewProblems/RemoveElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-element/) | 
 | 9 | Remove Duplicate Element | Easy | [Remove Duplicate Element](CodingInterviewProblems/RemoveDuplicateElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 
 | 10 | Remove Duplicate Element-II | Medium | [Remove Duplicate Element-II](CodingInterviewProblems/RemoveDuplicateElement-II.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 
-
+| 11 | Remove Duplicate Element-II | Easy | [Majority Element](CodingInterviewProblems/MajorityElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
 
 <!-- # System Design Interview Problems
 | S.N. | Problem Name | Difficulty Level | Solution |
