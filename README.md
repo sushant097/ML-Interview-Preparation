@@ -27,7 +27,6 @@ Include bookmark here to go directly to that section.
 
 
 
-
 <!-- # System Design Interview Problems
 | S.N. | Problem Name | Difficulty Level | Solution |
 | :------------ | :------------ |:---------------:| -----:|
