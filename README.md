@@ -21,7 +21,7 @@ Include bookmark here to go directly to that section.
 | 7 | Merge Sorted Array      | Easy | [Merge Sorted Array](CodingInterviewProblems/MergeSortedArray.py) -- [Leetcode Question Link](https://leetcode.com/problems/merge-sorted-array) | 
 | 8 | Remove Element | Easy | [Remove Element](CodingInterviewProblems/RemoveElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-element/) | 
 | 9 | Remove Duplicate Element | Easy | [Remove Duplicate Element](CodingInterviewProblems/RemoveDuplicateElement.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 
-
+| 9 | Remove Duplicate Element-II | Medium | [Remove Duplicate Element-II](CodingInterviewProblems/RemoveDuplicateElement-II.py) -- [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 
 
 
 <!-- # System Design Interview Problems
