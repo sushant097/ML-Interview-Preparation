@@ -22,10 +22,10 @@ Include bookmark here to go directly to that section.
 | 8 | Remove Element | Easy | [Remove Element Solution](CodingInterviewProblems/RemoveElement.py)| [Leetcode Question Link](https://leetcode.com/problems/remove-element/) | 
 | 9 | Remove Duplicate Element | Easy | [Remove Duplicate Element Solution](CodingInterviewProblems/RemoveDuplicateElement.py) | [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 
 | 10 | Remove Duplicate Element-II | Medium | [Remove Duplicate Element-II Solution](CodingInterviewProblems/RemoveDuplicateElement-II.py) | [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 
-| 11 | Remove Duplicate Element-II | Easy | [Majority Element Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
-| 12 | Rotate Array | Medium | [Rotate Array Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/rotate-array/) | 
-| 13 | Best Time to buy and sell stock | Easy | [Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 
-
+| 11 | Majority Element| Easy | [Majority Element Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
+| 12 | Rotate Array | Medium | [Rotate Array Solution](CodingInterviewProblems/rotateArray.py) | [Leetcode Question Link](https://leetcode.com/problems/rotate-array/) | 
+| 13 | Best Time to buy and sell stock | Easy | [Solution](CodingInterviewProblems/BestTimeToBuySellStock.py) | [Leetcode Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 
+| 14 | Best Time to buy and sell stock-II | Medium | [Solution](CodingInterviewProblems/BestTimeToBuySellStock-II.py) | [Leetcode Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 
 
 <!-- # System Design Interview Problems
 | S.N. | Problem Name | Difficulty Level | Solution |
