@@ -50,7 +50,8 @@ Steps to do that:
 2. Reverse the first k elements of the array.
 3. Reverse the remaining elements
 """
-        
+
+# Time: O(n) | Space: O(1)
 class Solution(object):
     def rotate(self, nums, k):
         """
