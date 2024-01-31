@@ -24,7 +24,7 @@ Include bookmark here to go directly to that section.
 | 10 | Remove Duplicate Element-II | Medium | [Remove Duplicate Element-II Solution](CodingInterviewProblems/RemoveDuplicateElement-II.py) | [Leetcode Question Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | 
 | 11 | Remove Duplicate Element-II | Easy | [Majority Element Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/majority-element/description) | 
 | 12 | Rotate Array | Medium | [Rotate Array Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/rotate-array/) | 
-
+| 13 | Best Time to buy and sell stock | Easy | [Solution](CodingInterviewProblems/MajorityElement.py) | [Leetcode Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 
 
 
 <!-- # System Design Interview Problems
