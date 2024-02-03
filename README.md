@@ -28,7 +28,8 @@ Include bookmark here to go directly to that section.
 | 14 | Best Time to buy and sell stock-II | Medium | [Solution](CodingInterviewProblems/BestTimeToBuySellStock-II.py) | [Leetcode Question Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | 
 | 15 | Jump Game | Easy | [Solution](CodingInterviewProblems/JumpGame.py) | [Leetcode Question Link](https://leetcode.com/problems/jump-game/description/) | 
 | 16 | Jump Game-II | Medium | [Solution](CodingInterviewProblems/JumpGameII.py) | [Leetcode Question Link](https://leetcode.com/problems/jump-game-ii/) | 
-
+| 17 | H-Index | Medium | [Solution](CodingInterviewProblems/HIndex.py) | [Leetcode Question Link](https://leetcode.com/problems/h-index/) | 
+| 18 | H-Index-II | Medium | [Solution](CodingInterviewProblems/HIndex-II.py) | [Leetcode Question Link](https://leetcode.com/problems/h-index-ii/description/) | 
 
 <!-- # System Design Interview Problems
 | S.N. | Problem Name | Difficulty Level | Solution |
