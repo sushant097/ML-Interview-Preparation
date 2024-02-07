@@ -73,14 +73,16 @@ class RandomizedSet(object):
 
     def __init__(self):
         self.values = []
+        self.idx_map = {}
 
     def insert(self, val):
         """
         :type val: int
         :rtype: bool
         """
-        if val in self.values:
+        if val in self.idx_map:
             return False
+        self.idx_map[val] = len(self.values)
         self.values.append(val)
         return True
 
@@ -89,10 +91,15 @@ class RandomizedSet(object):
         :type val: int
         :rtype: bool
         """
-        if val not in self.values:
+        if val not in self.idx_map:
             return False
-        self.values.remove(val)
+        last_element, idx = self.values[-1], self.idx_map[val]
+        self.values[idx], self.idx_map[last_element] = last_element, idx
+        # Remove the last element and delete the val from dict
+        self.values.pop()
+        del self.idx_map[val]
         return True
+
 
     def getRandom(self):
         """
