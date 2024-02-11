@@ -36,15 +36,25 @@ class Solution(object):
         arr = [1]  * len(ratings)
         
         # Traverse from left to right
+        # increment the candy's based off the left neighbor
         for i in range(1, len(ratings)):
+            # if the left neighbor is less than the current, then the current deserves one more candy than the prev
             if ratings[i] > ratings[i-1]:
                 arr[i] = arr[i-1] + 1
 
         # Traverse from right to left
+        # increment the candy's based off the right neighbor
         for i in range(len(ratings) -2, -1, -1):
+            # if the right neighbor is less than the current, then current deserves one more candy than the right
             if ratings[i] > ratings[i+1]:
+                 # here is the tricky part, if the current indexes candy is already higher than the right then leave it
+                # you don't want to update the current candy to candy[right] + 1 because there is a possibility that
+                # it will be less than the first pass iteration
                 arr[i] = max(arr[i], arr[i+1] + 1) # candies must be greater than its neighbors
         
         return sum(arr)
+
+        
+
 
         
