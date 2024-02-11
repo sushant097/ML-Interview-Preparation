@@ -26,6 +26,7 @@ Leetcode Question link:: https://leetcode.com/problems/candy/
 """
 
 class Solution(object):
+    # TIme: O(n) ; Space: O(n)
     def candy(self, ratings):
         """
         :type ratings: List[int]
