@@ -34,7 +34,7 @@ Include bookmark here to go directly to that section.
 | 20 |  Product of Array Except Self | Medium | [Solution](CodingInterviewProblems/ProductOfArrayExceptSelf.py) | [Leetcode Question Link](https://leetcode.com/problems/product-of-array-except-self/) |   
 | 21 |  Gas Station | Medium | [Solution](CodingInterviewProblems/GasStation.py) | [Leetcode Question Link](https://leetcode.com/problems/gas-station/) |   
 | 22 |  Candy | Hard | [Solution](CodingInterviewProblems/Candy.py) | [Leetcode Question Link](https://leetcode.com/problems/candy/) |   
-
+| 23 |  Trapping Rain Water | Hard | [Solution](CodingInterviewProblems/TrappingRainWater.py) | [Leetcode Question Link](https://leetcode.com/problems/trapping-rain-water/) |   
 
 
 
