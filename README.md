@@ -35,7 +35,7 @@ Include bookmark here to go directly to that section.
 | 21 |  Gas Station | Medium | [Solution](CodingInterviewProblems/GasStation.py) | [Leetcode Question Link](https://leetcode.com/problems/gas-station/) |   
 | 22 |  Candy | Hard | [Solution](CodingInterviewProblems/Candy.py) | [Leetcode Question Link](https://leetcode.com/problems/candy/) |   
 | 23 |  Trapping Rain Water | Hard | [Solution](CodingInterviewProblems/TrappingRainWater.py) | [Leetcode Question Link](https://leetcode.com/problems/trapping-rain-water/) |   
-
+| 24 |  Roman To Integer | Easy | [Solution](CodingInterviewProblems/Roman2Integer.py) | [Leetcode Question Link](https://leetcode.com/problems/roman-to-integer/) | 
 
 
 
