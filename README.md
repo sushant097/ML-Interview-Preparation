@@ -38,6 +38,8 @@ Include bookmark here to go directly to that section.
 | 24 |  Roman To Integer | Easy | [Solution](CodingInterviewProblems/Roman2Integer.py) | [Leetcode Question Link](https://leetcode.com/problems/roman-to-integer/) | 
 | 25|  Integer To Roman | Medium | [Solution](CodingInterviewProblems/Integer2Roman.py) | [Leetcode Question Link](https://leetcode.com/problems/integer-to-roman/) | 
 | 26|  Two Sum | Medium | [Solution](CodingInterviewProblems/TwoSum.py) | [Leetcode Question Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description) | 
+| 27|  Three Sum | Medium | [Solution](CodingInterviewProblems/ThreeSum.md.py) | [Leetcode Question Link](https://leetcode.com/problems/3sum/description/) | 
+
 
 
 <!-- # System Design Interview Problems
