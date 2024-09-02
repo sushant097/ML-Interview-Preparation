@@ -49,4 +49,4 @@ Include bookmark here to go directly to that section.
 
 
 
-Best of Luck! :like:
+Best of Luck!
