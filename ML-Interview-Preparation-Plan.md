@@ -1,5 +1,7 @@
 # Machine Learning Engineer Interview Preparation
 
+![](images/ml_engineer_role.webp)
+
 Welcome to my Machine Learning Engineer interview preparation repository. With over two years of experience in the field, I’m committed to refining my skills, learning new technologies, and staying current with industry trends as I prepare for upcoming opportunities. This repository will serve as a comprehensive guide and resource hub, documenting my journey and the topics I’m focusing on.
 
 ## Preparation Plan
