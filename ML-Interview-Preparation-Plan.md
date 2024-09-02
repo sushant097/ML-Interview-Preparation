@@ -50,6 +50,7 @@ Cloud deployment of machine learning models is an industry standard. I’m honin
 
 - **Docker**
 - **Kubernetes**
+- **Pyspark (Big Data)**
 - **AWS**
   - SageMaker
   - Serverless (Lambda)
