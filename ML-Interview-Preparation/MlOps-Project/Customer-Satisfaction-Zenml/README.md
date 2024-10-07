@@ -25,9 +25,9 @@ pip install -r requirements.txt
 * and so on
 
 ## Project Features:
-* Manage and track all the training, continuous deployment and inference pipeline with Zenml. 
-* Log model metrics and track it with mlflow. 
-* Run the deployed model with streamlit.
+* Manage and track all the training, continuous deployment and inference pipeline with `zenml`. 
+* Log model metrics and track it with `mlflow`. 
+* Run the deployed model with `streamlit`.
 
 
 
