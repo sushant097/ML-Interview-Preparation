@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 ## Project Features:
 * Manage and track all the training, continuous deployment and inference pipeline with `zenml`. 
+* Continuous model deployment with threshold-based accuracy checks.
 * Log model metrics and track it with `mlflow`. 
 * Run the deployed model with `streamlit`.
 
@@ -125,3 +126,7 @@ There is a live demo of this project using [Streamlit](https://streamlit.io/). I
 ```bash
 streamlit run streamlit_app.py
 ```
+
+#### Demo Video:
+<video src='https://github.com/user-attachments/assets/fc533976-3986-48fb-ba25-8df34a7e5de5' ></video>
+
