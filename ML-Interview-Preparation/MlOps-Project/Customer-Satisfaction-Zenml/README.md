@@ -24,6 +24,12 @@ pip install -r requirements.txt
 * `Pandas`
 * and so on
 
+## Project Features:
+* Manage and track all the training, continuous deployment and inference pipeline with Zenml. 
+* Log model metrics and track it with mlflow. 
+* Run the deployed model with streamlit.
+
+
 
 ZenML comes bundled with a React-based dashboard. This dashboard allows you
 to observe your stacks, stack components and pipeline DAGs in a dashboard interface. To access this, you need to [launch the ZenML Server and Dashboard locally](https://docs.zenml.io/user-guide/starter-guide#explore-the-dashboard), but first you must install the optional dependencies for the ZenML server:
