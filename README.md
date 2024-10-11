@@ -4,7 +4,7 @@ My plan for Machine Learning Engineer interview preparation is given [here](./ML
 
 ## Table Of Contents
 1. ### [Coding Interview Questions](./CodingInterviewProblems/README.md)
-2. ### [Machine Learning Projects](./ML-Interview-Preparation/Ml-Interview-Prep.md)
+2. ### [Machine Learning Projects](./ML-Interview-Preparation/Readme.md)
 3. ### [Data Science and Machine Learning Interview Questions](https://github.com/sushant097/100Days__DataScience?tab=readme-ov-file)
 4. ### [System Design Interview Questions](./SystemDesign/README.md)
 
