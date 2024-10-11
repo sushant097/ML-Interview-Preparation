@@ -1,0 +1,5 @@
+learning_rate: 1.2e-05
+lr: 1.2e-05
+model_name: regnetz_c16
+num_classes: 6
+optimizer_name: ADAM

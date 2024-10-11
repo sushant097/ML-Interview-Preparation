@@ -1,0 +1,1 @@
+{"multiclass_classification_metrics": {"accuracy": {"value": 0.7279999852180481, "standard_deviation": "0"}, "confusion_matrix": {"buildings": 26.31579041481018, "forest": 29.535865783691406, "glacier": 26.582279801368713, "mountain": 23.619048297405243, "sea": 30.588236451148987, "street": 27.744510769844055}}}
