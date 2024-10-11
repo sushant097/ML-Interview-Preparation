@@ -53,6 +53,8 @@ The solution we’re building is designed to handle continuous data flow. Every 
 
 ## Pipelines
 
+![training_and_deployment_pipeline](_assets/training_and_deployment_pipeline_updated.png)
+
 ### Training Pipeline
 
 Our training pipeline automates several key steps to ensure seamless model training and evaluation:
