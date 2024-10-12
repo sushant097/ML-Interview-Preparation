@@ -12,5 +12,6 @@ This subfolder contains all the projects, tools, resources to master the skills 
 
 1. [MlOps - Customer Satisfaction Project](./MlOps-Project/Customer-Satisfaction-Zenml/)
 2.  [End-to-End MLOps Image Classification Project](./MlOps-Project/End-to-End-Mlops-Image-Classification-Project/)
+3. [End-to-End Data Streaming Project](./MlOps-Project/End-to-End-Data-Streaming/)
 
 
