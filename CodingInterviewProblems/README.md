@@ -9,6 +9,34 @@ It may include three s:
 Include bookmark here to go directly to that .
  -->
 
+# Amazon Popular Questions
+| S.N. | Problem Name | Difficulty Level | Solution | Leetcode Link |
+| :--- | :----------- | :--------------: | :------: | :-----------: |
+| 1 | Merge Intervals | Medium | [Solution](https://leetcode.com/problems/merge-intervals/submissions/1456388524/) | [Leetcode Link](https://leetcode.com/problems/merge-intervals/description/) |
+| 2 | Insert Interval | Medium | [Solution](https://leetcode.com/problems/insert-interval/submissions/1456409370/) | [Leetcode Link](https://leetcode.com/problems/insert-interval/description/) |
+| 3 | Number of Islands | Medium | DFS: [Solution](https://leetcode.com/problems/number-of-islands/submissions/1478639619/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days), BFS: [Solution](https://leetcode.com/problems/number-of-islands/submissions/1478660635/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) | [Leetcode Link](https://leetcode.com/problems/number-of-islands/description/) |
+| 4 | Search Suggestions System | Medium | - | [Leetcode Link](https://leetcode.com/problems/search-suggestions-system/description/) |
+| 5 | Best Time to Buy and Sell Stock | Easy | - | [Leetcode Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
+| 6 | Group Anagrams | Medium | - | [Leetcode Link](https://leetcode.com/problems/group-anagrams/description/) |
+| 7 | Longest Substring Without Repeating Characters | Medium | - | [Leetcode Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
+| 8 | K Closest Points to Origin | Medium | - | [Leetcode Link](https://leetcode.com/problems/k-closest-points-to-origin/description/) |
+| 9 | Merge K Sorted Lists | Hard | - | [Leetcode Link](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
+| 10 | Trapping Rain Water | Hard | - | [Leetcode Link](https://leetcode.com/problems/trapping-rain-water/description/) |
+| 11 | 3Sum | Medium | - | [Leetcode Link](https://leetcode.com/problems/3sum/description/) |
+| 12 | Valid Parentheses | Easy | - | [Leetcode Link](https://leetcode.com/problems/valid-parentheses/description/) |
+| 13 | Word Ladder | Hard | - | [Leetcode Link](https://leetcode.com/problems/word-ladder/description/) |
+| 14 | Median of Two Sorted Arrays | Hard | - | [Leetcode Link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |
+| 15 | Add Two Numbers | Medium | - | [Leetcode Link](https://leetcode.com/problems/add-two-numbers/description/) |
+| 16 | Word Search | Medium | - | [Leetcode Link](https://leetcode.com/problems/word-search/description/) |
+| 17 | Maximum Subarray | Easy | - | [Leetcode Link](https://leetcode.com/problems/maximum-subarray/description/) |
+| 18 | Merge Strings Alternately | Easy | [Solution](https://leetcode.com/problems/merge-strings-alternately/submissions/1477297953/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) | [Leetcode Link](https://leetcode.com/problems/merge-strings-alternately/description/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) |
+| 19 | Meeting Rooms II | Medium | [Solution](https://leetcode.com/problems/meeting-rooms-ii/submissions/1477493262/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) | [Leetcode Link](https://leetcode.com/problems/meeting-rooms-ii/description/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) |
+| 20 | Identify the Largest Outlier in an Array | Medium | [Solution](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/submissions/1478593455/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) | [Leetcode Link](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/description/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) |
+| 21 | Task Scheduler | Medium | [Solution](https://leetcode.com/problems/task-scheduler/submissions/1479766951/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) | [Leetcode Link](https://leetcode.com/problems/task-scheduler/description/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) |
+
+
+
+
 # Coding Interview Problems - Leetcode
 | S.N. | Problem Name | Difficulty Level | Solution | Leetcode Link
 | :------------ | :------------ |:---------------:|:---------------:|:-----:|
