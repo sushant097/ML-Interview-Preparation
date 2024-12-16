@@ -1,13 +1,80 @@
-# ML-Interview-Preparation
-This repository contains all of the resources and questions I was given for the machine learning interview, including coding and the system design interview, throughout my preparation.
+# Coding Interview Preparation
 
-<!-- 
-It may include three s:
-1. Coding Interview 
-2. ML interview question 
-3. System Design question 
-Include bookmark here to go directly to that .
- -->
+
+This repository provides a curated list of algorithm techniques along with associated practice problems to help you master common patterns used in coding interviews and competitive programming.
+
+
+![](../Images/DSA-category.png)
+
+
+### 1. Arrays
+- **Sorting:**
+  - QuickSort: Efficient average-case time complexity (O(nlog n)).
+  - MergeSort: Stable sort, useful when order matters (O(nlog n)).
+- **Searching:**
+  - Binary Search: Fast search in sorted arrays (O(log n)).
+- **Two Pointers:**
+  - In-place manipulation, often for sorted arrays (e.g., removing duplicates).
+- **Sliding Window:**
+  - Subarray problems, finding maximum/minimum within a window.
+
+### 2. Linked Lists
+- **Traversal:** Iterate through the list, understand the node structure.
+- **Insertion/Deletion:** At beginning, end, or at a specific position.
+- **Reversal:** In-place reversal, recursive and iterative approaches.
+- **Cycle Detection:** Floyd's Tortoise and Hare algorithm.
+
+### 3. Hash Tables (Hash Maps/Sets)
+- Understand how hash functions work.
+- Insertion/Deletion/Lookup.
+- Collision Handling.
+
+### 4. Trees
+- **Traversal:** Inorder, Preorder, Postorder (recursive and iterative).
+- **Searching:** Find a node with a given value (especially in BSTs).
+
+### 5. Stacks
+- Understand Push/Pop/Peek operations.
+
+### 6. Queues
+- Understand Enqueue/Dequeue operations.
+
+### 7. Heaps (Priority Queues)
+- **Operations:** Insertion/Deletion (extract-min/max).
+- **Top K Elements:** Using a heap to find k largest/smallest elements.
+
+### 8. Graphs
+- **Traversal:** BFS, DFS.
+- **Shortest Path:** Dijkstra's Algorithm.
+- **Cycle Detection:** DFS.
+
+### 9. Tries
+- Implement Trie from scratch.
+- Insertion/Searching: For words/prefixes.
+- Autocompletion: Using a trie for word suggestions.
+
+### 10. Union-Find (Disjoint Set)
+- Implement Union-Find from scratch.
+- Find/Union operations.
+- Cycle Detection in undirected graphs.
+
+## General Algorithms/Techniques
+
+### 1. Recursion
+Defining a problem in terms of itself, often leading to elegant and concise solutions.
+
+### 2. Dynamic Programming
+Breaking down a problem into overlapping subproblems and storing solutions to avoid recomputation.
+
+### 3. Greedy Algorithms
+Making locally optimal choices at each step with the hope of finding a global optimum.
+
+### 4. Backtracking
+Incrementally building solutions, exploring all possible paths, and abandoning invalid ones.
+
+
+**Begineer Friendly 100 Leetcode questions: [here](./PopularQuestions.md)**
+
 
 # Amazon Popular Questions
 | S.N. | Problem Name | Difficulty Level | Solution | Leetcode Link |
@@ -35,9 +102,10 @@ Include bookmark here to go directly to that .
 | 21 | Task Scheduler | Medium | [Solution](https://leetcode.com/problems/task-scheduler/submissions/1479766951/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) | [Leetcode Link](https://leetcode.com/problems/task-scheduler/description/?envType=company&envId=amazon&favoriteSlug=amazon-thirty-days) |
 
 
+# Popular Begineer Friendly Top 100 list of Leetcode Questions
 
 
-# Coding Interview Problems - Leetcode
+# Other Coding Interview Problems - Leetcode
 | S.N. | Problem Name | Difficulty Level | Solution | Leetcode Link
 | :------------ | :------------ |:---------------:|:---------------:|:-----:|
 | 1 | Two Sum Problem      | Easy | [Two Sum Solution](TwoSumGoogleInterview.md) |  |
